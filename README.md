@@ -5,7 +5,7 @@ My research interests include:
 - Textual Analysis and Sentiment in Financial Markets
 - Investment Strategies and Portfolio Risk Management.
 
-I am passionate about using data-driven approaches to investigate questions in Finance.
+I am passionate about using data-driven approaches to answer questions in Finance.
 
 ---
 
