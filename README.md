@@ -4,7 +4,6 @@ My research interests include:
 - Asset Pricing and Market Efficiency
 - Textual Analysis and Sentiment in Financial Markets
 - Investment Strategies and Portfolio Risk Management
-
 I am passionate about using data-driven approaches to investigate questions in Finance.
 
 ---
@@ -34,10 +33,9 @@ University of Dhaka
 **MidFirst Bank** | Oklahoma City, OK | Summer 2024  
 - Developed a framework to assess FHA Waterfall Payment relief plan eligibility.
 - Automated reporting to analyze interest accrual on loan modifications.
-- Conducted sensitivity analysis and presented final models to senior management.
 
 ### Graduate Teaching Assistant  
-**Oklahoma State University** | August 2023 – Present  
+**Oklahoma State University** | August 2023 – May 2025  
 - Led Python review sessions for finance students.
 - Assisted with course design, grading, and exam proctoring.
 
@@ -51,7 +49,7 @@ Reproduced Roychowdhury's empirical analysis using Compustat data and Fama-MacBe
 ### Volatility Surface Analysis ([Link](https://github.com/omersany002/VolatilitySurface))
 Built a Python tool to model option volatility surfaces using both Black-Scholes and Heston models. Integrated real-time option chains and treasury yield curves for precise calibration.
 
-### Value at Risk (VaR) Model
+### Value at Risk (VaR) Model ([Link](https://github.com/omersany002/VaRModel))
 Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk under different return distributions.
 
 ---
@@ -65,7 +63,7 @@ Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk 
 
 ---
 
-📫 **Contact**  
+**Contact**  
 Email: oprakash@missouri.edu
-GitHub: [omersany002](https://github.com/omersany002)  
+GitHub: [omersany002](https://github.com/omersany002)
 LinkedIn: [Omer Sany Prakash](https://www.linkedin.com/in/omer-sany-prakash/)
