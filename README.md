@@ -1,9 +1,10 @@
-Welcome! I am a Ph.D. student in Finance at the University of Missouri, with a strong background in quantitative methods, financial modeling, and empirical research. I hold a Master’s in Quantitative Finance from Oklahoma State University and a BBA in Finance from the University of Dhaka.
+Welcome! I am a Ph.D. student in Finance at the University of Missouri, with a strong background in quantitative methods, financial modeling, and empirical research. I hold a Master’s in Quantitative Finance from Oklahoma State University and a BBA in Finance from the University of Dhaka.<br>
 
 My research interests include:
 - Asset Pricing and Market Efficiency
 - Textual Analysis and Sentiment in Financial Markets
-- Investment Strategies and Portfolio Risk Management
+- Investment Strategies and Portfolio Risk Management.
+
 I am passionate about using data-driven approaches to investigate questions in Finance.
 
 ---
@@ -64,6 +65,6 @@ Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk 
 ---
 
 **Contact**  
-Email: oprakash@missouri.edu
-GitHub: [omersany002](https://github.com/omersany002)
+Email: oprakash@missouri.edu<br>
+GitHub: [omersany002](https://github.com/omersany002)<br>
 LinkedIn: [Omer Sany Prakash](https://www.linkedin.com/in/omer-sany-prakash/)
