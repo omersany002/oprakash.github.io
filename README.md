@@ -1,5 +1,3 @@
-# Omer Sany Prakash
-
 Welcome! I am a Ph.D. student in Finance at the University of Missouri, with a strong background in quantitative methods, financial modeling, and empirical research. I hold a Master’s in Quantitative Finance from Oklahoma State University and a BBA in Finance from the University of Dhaka.
 
 My research interests include:
@@ -7,18 +5,18 @@ My research interests include:
 - Textual Analysis and Sentiment in Financial Markets
 - Investment Strategies and Portfolio Risk Management
 
-I am passionate about using data-driven approaches to explore investor behavior, earnings management, and derivative pricing.
+I am passionate about using data-driven approaches to investigate questions in Finance.
 
 ---
 
-## 🔬 Current Position
+## Current Position
 **Ph.D. in Finance**  
 University of Missouri  
 *Columbia, MO | August 2025 – Present*
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master’s in Quantitative Finance**  
 Oklahoma State University  
@@ -30,7 +28,7 @@ University of Dhaka
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Mortgage Acquisition Intern  
 **MidFirst Bank** | Oklahoma City, OK | Summer 2024  
@@ -45,20 +43,20 @@ University of Dhaka
 
 ---
 
-## 📁 Selected Projects
+## Selected Projects
 
-### 📊 Real Activities Earnings Management (Replication)
+### Real Activities Earnings Management (Replication)
 Reproduced Roychowdhury's empirical analysis using Compustat data and Fama-MacBeth regressions to detect real earnings management through abnormal CFO, discretionary expenses, and production costs.
 
-### 📈 Volatility Surface Analysis ([Link](https://github.com/omersany002/VolatilitySurface))
+### Volatility Surface Analysis ([Link](https://github.com/omersany002/VolatilitySurface))
 Built a Python tool to model option volatility surfaces using both Black-Scholes and Heston models. Integrated real-time option chains and treasury yield curves for precise calibration.
 
-### 💥 Value at Risk (VaR) Model
+### Value at Risk (VaR) Model
 Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk under different return distributions.
 
 ---
 
-## 🔧 Skills
+## Skills
 
 **Languages**: Python, R, SQL  
 **Packages**: Numpy, Pandas, Statsmodels, Yfinance, Scipy, Matplotlib  
@@ -68,6 +66,6 @@ Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk 
 ---
 
 📫 **Contact**  
-Email: omer.prakash@okstate.edu  
+Email: oprakash@missouri.edu
 GitHub: [omersany002](https://github.com/omersany002)  
 LinkedIn: [Omer Sany Prakash](https://www.linkedin.com/in/omer-sany-prakash/)
