@@ -50,15 +50,17 @@ Reproduced Roychowdhury's empirical analysis using Compustat data and Fama-MacBe
 ### Volatility Surface Analysis ([Link](https://github.com/omersany002/VolatilitySurface))
 Built a Python tool to model option volatility surfaces using both Black-Scholes and Heston models. Integrated real-time option chains and treasury yield curves for precise calibration.
 
-#### Market Implied Volatility Surface  
-<p align="center">
-  <img src="/images/assets/market_jpg.png" alt="Market Implied Volatility Surface" width="600">
-</p>
-
-#### Heston Model Implied Volatility Surface  
-<p align="center">
-  <img src="/images/assets/heston_jpg.png" alt="Heston Model Implied Volatility Surface" width="600">
-</p>
+<!-- Insert images below -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="text-align: center;">
+    <img src="/images/assets/market_jpg.png" alt="Market Implied Volatility Surface" width="300">
+    <figcaption style="font-size: 14px; color: gray;">Market Implied Volatility Surface</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/assets/heston_jpg.png" alt="Heston Model Implied Volatility Surface" width="300">
+    <figcaption style="font-size: 14px; color: gray;">Heston Model Implied Volatility Surface</figcaption>
+  </figure>
+</div>
 
 ### Value at Risk (VaR) Model ([Link](https://github.com/omersany002/VaRModel))
 Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk under different return distributions.
