@@ -44,8 +44,14 @@ University of Dhaka
 
 ## Selected Projects
 
-### Real Activities Earnings Management (Replication)
+### Earnings Management Through Real Activities Manipulation(Replication)
 Reproduced Roychowdhury's empirical analysis using Compustat data and Fama-MacBeth regressions to detect real earnings management through abnormal CFO, discretionary expenses, and production costs.
+<p align="center">
+  <img src="/images/assets/earnings_management_replication.jpg" alt="Regression Table - Real Earnings Management" width="700">
+  <br>
+  <em>Regression results from replicated study on real earnings management (abnormal CFO, discretionary expenses, and production costs)</em>
+</p>
+
 
 ### Volatility Surface Analysis ([Link](https://github.com/omersany002/VolatilitySurface))
 Built a Python tool to model option volatility surfaces using both Black-Scholes and Heston models. Integrated real-time option chains and treasury yield curves for precise calibration.
@@ -64,7 +70,11 @@ Built a Python tool to model option volatility surfaces using both Black-Scholes
 
 ### Value at Risk (VaR) Model ([Link](https://github.com/omersany002/VaRModel))
 Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk under different return distributions.
-
+<p align="center">
+  <img src="/assets/images/var_model.jpg" alt="Value at Risk Simulation Output" width="500">
+  <br>
+  <em>Simulated Value at Risk (VaR) estimation using Monte Carlo simulation</em>
+</p>
 ---
 
 ## Skills
