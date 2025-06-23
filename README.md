@@ -47,7 +47,7 @@ University of Dhaka
 ### Earnings Management Through Real Activities Manipulation(Replication)
 Reproduced Roychowdhury's empirical analysis using Compustat data and Fama-MacBeth regressions to detect real earnings management through abnormal CFO, discretionary expenses, and production costs.
 <p align="center">
-  <img src="/images/assets/earnings_management_replication.jpg" alt="Regression Table - Real Earnings Management" width="700">
+  <img src="/images/assets/earnings_management_replication.jpg" alt="Regression Table - Real Earnings Management" width="300">
   <br>
   <em>Regression results from replicated study on real earnings management (abnormal CFO, discretionary expenses, and production costs)</em>
 </p>
