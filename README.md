@@ -53,11 +53,11 @@ Built a Python tool to model option volatility surfaces using both Black-Scholes
 <!-- Insert images below -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <figure style="text-align: center;">
-    <img src="/images/assets/heston_iv.png" alt="Market Implied Volatility Surface" width="300">
+    <img src="/images/assets/market_iv.png" alt="Market Implied Volatility Surface" width="300">
     <figcaption style="font-size: 14px; color: gray;">Market Implied Volatility Surface</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="/images/assets/market_iv.png" alt="Heston Model Implied Volatility Surface" width="300">
+    <img src="/images/assets/heston_iv.png" alt="Heston Model Implied Volatility Surface" width="300">
     <figcaption style="font-size: 14px; color: gray;">Heston Model Implied Volatility Surface</figcaption>
   </figure>
 </div>
