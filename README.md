@@ -71,7 +71,7 @@ Built a Python tool to model option volatility surfaces using both Black-Scholes
 ### Value at Risk (VaR) Model ([Link](https://github.com/omersany002/VaRModel))
 Implemented a Monte Carlo simulation-based VaR model to estimate portfolio risk under different return distributions.
 <p align="center">
-  <img src="/assets/images/var_model.jpg" alt="Value at Risk Simulation Output" width="500">
+  <img src="/assets/images/var_model.png" alt="Value at Risk Simulation Output" width="500">
   <br>
   <em>Simulated Value at Risk (VaR) estimation using Monte Carlo simulation</em>
 </p>
