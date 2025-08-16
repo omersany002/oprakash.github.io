@@ -1,11 +1,11 @@
-# title: Omer Sany Prakash
-# logo: images/cropped_profile_image.png
-# theme: jekyll-theme-minimal
+title: Omer Sany Prakash
+logo: images/cropped_profile_image.png
+theme: jekyll-theme-minimal
 
-author:
-  name: "Omer Sany Prakash"
-  avatar: "/images/cropped_profile_image.png"
-  links:
-    - label: "Resume"
-      icon: "fas fa-file-pdf"
-      url: "/files/Omer_Sany_Resume.pdf"
+# author:
+#   name: "Omer Sany Prakash"
+#   avatar: "/images/cropped_profile_image.png"
+#   links:
+#     - label: "Resume"
+#       icon: "fas fa-file-pdf"
+#       url: "/files/Omer_Sany_Resume.pdf"
